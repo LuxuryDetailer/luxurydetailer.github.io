@@ -402,3 +402,20 @@ footer {
 .benefit {
   color: #f3b031;
 }
+
+.social-media {
+  letter-spacing: 5px;
+  padding-top: 30px;
+}
+
+.social-media .facebook {
+  color: darkblue;
+}
+
+.social-media .whatsapp {
+  color: green;
+}
+
+.social-media .mail {
+  color: darkslategray;
+}
