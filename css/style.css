@@ -277,10 +277,10 @@ a:active {
   margin: 0;
   border: 0; }
   .navigation .navbar-brand {
-    padding-top: 5px;
+    padding-top: 10px;
     display: inline-block; }
   .navigation .navbar-toggler {
-    background: #fff;
+    color: white;
     outline: none;
     border-radius: 0;
     float: right; }
@@ -288,10 +288,8 @@ a:active {
       font-size: 22px; }
 
 .navigation.animated {
-  background-color: #fff;
+  background-color: rgba(0, 0, 0, 0.9);
   box-shadow: 0 2px 7px 0px rgba(142, 142, 142, 0.15); }
-  .navigation.animated .menu a {
-    color: #666; }
 
 .menu li a {
   color: #fff;
